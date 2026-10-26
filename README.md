@@ -3,6 +3,8 @@
 
 A production-grade **Databricks + Delta Lake** data pipeline that ingests live cryptocurrency data from the **CoinGecko API**, processes it through a **Medallion Architecture** (Bronze → Silver → Gold), and serves a real-time **Crypto Market Intelligence Dashboard**.
 
+This is a team project, given to us as our capstone project during our Data Engineering internship at Sigmoid.
+
 ---
 
 ## 📐 Architecture Overview
